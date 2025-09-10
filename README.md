@@ -13,4 +13,4 @@
 ⚡ Fun fact: When I’m not coding, you’ll find me exploring new places, listening to Punjabi music, or experimenting with creative web designs.  
 
 📫 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/harpreetkaur117/) | [Email](mailto:kaurpreethar1208@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/harpreetkaur117/) | [Email](kaurpreethar1208@gmail.com)  
