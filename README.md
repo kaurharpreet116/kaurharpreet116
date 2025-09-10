@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Harpreet  
 
-<!--
-**kaurharpreet116/kaurharpreet116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science & Information Technology @ Sacred Heart University  
 
-Here are some ideas to get you started:
+💻 I’m passionate about **cloud computing, databases, and web development**  
+🌱 Currently learning **AWS, advanced SQL, and modern frontend frameworks**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Some of my projects:  
+- ☁️ **Cloud Deployment Project** – Built and deployed a scalable web app on AWS  
+- 🗄️ **Database Management System** – Designed and optimized relational databases  
+- 🌐 **Personal Portfolio Website** – Interactive, responsive portfolio with dark mode  
+
+⚡ Fun fact: When I’m not coding, you’ll find me exploring new places, listening to Punjabi music, or experimenting with creative web designs.  
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/harpreetkaur117/) | [Email](mailto:kaurpreethar1208@gmail.com)  
