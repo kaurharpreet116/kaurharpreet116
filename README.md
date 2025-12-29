@@ -1,8 +1,8 @@
 # Harpreet Kaur — Cloud Support Engineer (Entry/Associate)
 
 Cloud Support Engineer focused on resolving production cloud incidents across compute, networking, identity/security, and observability.
-
 I document incidents the way support teams operate: impact → investigation → root cause → fix → prevention.
+Previously worked in IT support environments; transitioning into cloud-focused incident response roles.
 
 ---
 
