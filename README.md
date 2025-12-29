@@ -1,15 +1,37 @@
-# Hi 👋, I'm Harpreet  
+# Harpreet Kaur — Cloud Support Engineer (Entry/Associate)
 
-🎓 MS in Computer Science & Information Technology @ Sacred Heart University  
+Cloud Support Engineer focused on resolving production cloud incidents across compute, networking, identity/security, and observability.
 
-💻 I’m passionate about **cloud computing, databases, and web development**  
-🌱 Currently learning **AWS, advanced SQL, and modern frontend frameworks**  
+I document incidents the way support teams operate: impact → investigation → root cause → fix → prevention.
 
-🔭 Some of my projects:  
-- ☁️ **Cloud Deployment Project** – Built and deployed a scalable web app on AWS  
-- 🗄️ **Database Management System** – Designed and optimized relational databases  
-  
-⚡ Fun fact: When I’m not coding, you’ll find me exploring new places, listening to Punjabi music, or experimenting with creative web designs.  
+---
 
-📫 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/harpreetkaur117/) | kaurpreethar1208@gmail.com
+## Core Support Skills (Recruiter Keywords)
+
+- **AWS:** EC2, VPC, Security Groups/NACLs, IAM, ALB/NLB, Route 53, S3, CloudWatch
+- **Linux Troubleshooting:** SSH, permissions, systemd, log analysis, networking tools
+- **Networking:** DNS, TCP/IP, routing, HTTP/HTTPS, SSL/TLS, load balancer health checks
+- **Security/IAM:** AccessDenied debugging, role trust policies, least privilege, policy evaluation
+- **Monitoring/Logging:** CloudWatch metrics/logs, alert triage, incident timelines, postmortems
+- **Tools:** AWS CLI, Linux CLI, Git, Markdown documentation
+
+---
+
+## How I Solve Cloud Incidents
+
+1. Confirm impact + severity (Sev-1/2/3)
+2. Stabilize service first (safe, reversible changes)
+3. Isolate fault domain (network vs compute vs IAM vs app)
+4. Gather evidence (logs, metrics, configs, recent changes)
+5. Identify root cause + validate with tests
+6. Fix + confirm recovery end-to-end
+7. Prevent recurrence (alerts, guardrails, runbooks, automation)
+
+---
+
+## Featured Work (Cloud Support Portfolio)
+- Cloud incident case studies (tickets, RCA, remediation)
+- Runbooks and troubleshooting playbooks
+- Monitoring + alert investigations
+
+📌 Repos will be pinned here after publishing the incident portfolio.
